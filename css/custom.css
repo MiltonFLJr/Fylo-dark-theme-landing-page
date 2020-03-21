@@ -1,0 +1,298 @@
+@media (max-width: 992px){
+
+.linkspadtop2{
+	padding-top: 10px;
+}
+
+.flexdisplay2{
+	display:block !important;
+}
+
+.linkspt2padtop{
+
+padding-top: 20px;
+
+}
+
+.linkspt1padbottom{
+
+padding-top: 40px;
+
+}
+
+.relative{
+	position: relative;
+}
+
+.absoluteicons{
+	position: absolute;
+	margin:auto;
+	left:0;
+	right:0;
+}
+
+}
+
+@media (max-width: 768px){
+
+.nav{
+	display: block;
+	text-align: center;
+}
+
+.linkspad {
+    padding: 0px !important;
+}
+
+.backgroundstyleimage{
+	background-image: url('../images/bg-curvy-desktop.png') !important;
+ height: 50% !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  position: relative !important;
+}
+
+@media (max-width: 568px){
+
+	.backgroundstyleimage {
+    background-image: url('../images/bg-curvy-desktop.png') !important;
+    height: 50% !important;
+    background-position: 53% 2rem !important;
+    background-repeat: no-repeat !important;
+    background-size: 47rem 102% !important;
+    position: relative !important;
+}
+
+}
+
+.inputstyle{
+	width:100% !important;
+}
+
+.custombtn2{
+	width:100% !important;
+	margin-top: 20px !important;
+	margin-left: 0px !important;
+}
+
+.formpadding{
+	padding:40px !important;
+}
+
+}
+
+body{
+  color:white;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  background-color:rgb(12,21,36);
+}
+
+.backgroundstyleimage{
+background-image: url('../images/bg-curvy-desktop.png');
+background-size: 100% 19rem;
+background-repeat: no-repeat;
+background-position: 0rem 2rem;
+}
+
+.colorbackground{
+   background-color: #1C2224;
+}
+
+.colorbackground2{
+   background-color:rgb(24,31,43);
+}
+
+.colorbackground3{
+background-color:rgb(12,21,36);
+}
+
+
+.logopad{
+  padding:35px;
+}
+
+.linkspad{
+  padding: 40px;
+}
+
+.links a:link{
+	color:white;
+	font-family: 'Raleway', sans-serif;
+}
+
+.links a:visited{
+	color:white;
+}
+
+.padtext{
+  padding-top: 30px;
+}
+
+.padtext2{
+  padding-top: 20px;
+}
+
+.padblock{
+ padding-top: 150px;	
+}
+
+.padblock2{
+ padding-top: 135px;	
+}
+
+.custombtn{
+ 	background-color: hsl(198, 60%, 50%);
+	width: 278px;
+	font-weight: 900;
+	color:white;
+	border-radius: 25px;
+	height: 52px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.custombtn2{
+ 	background-color: hsl(198, 60%, 50%);
+	width: 241px;
+	font-weight: 900;
+	color:white;
+	border-radius: 25px;
+	height: 52px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.inputstyle{
+height: 52px;
+border-radius: 25px;
+width: 62%;
+}
+
+.griddisplay{
+ display:grid;
+}
+
+.flexdisplay{
+ display:flex;
+}
+
+.flexdisplay2{
+ display:flex;
+}
+
+.pdtop10{
+  padding-top: 10px;
+}
+
+.fontweight900{
+ font-weight:900;
+}
+
+.justifytext{
+ text-align: justify;
+}
+
+.avatarheight{
+ height:60px;	
+}
+
+.profilepadtop{
+ padding-top: 30px;
+}
+
+.profilefontsize{
+ font-size: 15px;	
+}
+
+.profilebackgroundcolor{
+ background-color: rgb(33, 41, 60);
+}
+
+.textpadding{
+  padding: 30px;
+}
+
+.avatarpaddingleftright{
+    padding-right: 14px;
+    padding-left: 25px;
+}
+
+.colpdbottom{
+	padding-bottom: 30px;
+}
+
+.formbackgroundcolor{
+	background-color: rgb(28,34,48);
+}
+
+.formpadding{
+	padding:60px;
+}
+
+.exemplo .container{
+ max-width: 850px;
+}
+
+.exemplo2 .container{
+ max-width: 1240px;
+}
+
+.iconlocation{
+  height: 20px;
+}
+
+.stylelist{
+	list-style: none;
+}
+
+.stylelisticons{
+	list-style: none;
+}
+
+.stylelisticons li{
+	display:inline;
+}
+
+.linkspadtop{
+   padding-top: 10px;		
+}
+
+.iconspadright{
+  padding-right: 10px;	
+}
+
+.spacingpad{
+  padding-bottom: 30px;
+}
+
+.linksbottom{
+	color:white;
+}
+
+.fontsize18{
+	font-size: 18px;
+}
+
+.fontsize16{
+	font-size: 16px;
+}
+
+.formposition{
+	position: relative;
+    top: 83px;
+}
+
+.borderround{
+    border-radius: 13px;
+}
+
+.formshadow{
+	box-shadow: 17px 8px 5px -6px rgba(36,37,41,1);
+}
+
+.backgroundstyleicon{
+background-image: url('../images/bg-quotes.png');
+    background-size: 4rem 4rem;
+    background-repeat: no-repeat;
+    background-position: 2rem 7rem;
+}
